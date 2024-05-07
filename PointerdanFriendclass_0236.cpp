@@ -11,3 +11,5 @@ public :
         return a * b;
     }
 };
+
+class segitiga
