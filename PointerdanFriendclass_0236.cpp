@@ -28,3 +28,8 @@ public :
         return p.panjang;
     }
 };
+
+int main()
+{
+    
+}
